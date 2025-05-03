@@ -70,18 +70,6 @@ I believe in writing clean, maintainable code with an architectural mindset, and
 
 ---
 
-## 🎓 Education
-
-**🧑‍🎓 Northeastern University**  
-M.S. in Computer Science, GPA: 4.0/4.0  
-_Expected: April 2025 | Arlington, VA_
-
-**🏫 BITS Pilani, Dubai Campus**  
-B.E. in Computer Science, CGPA: 8.74/10  
-_Graduated: July 2022_
-
----
-
 ## 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sayantan-datta/)
