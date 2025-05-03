@@ -73,7 +73,6 @@ I believe in writing clean, maintainable code with an architectural mindset, and
 ## 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sayantan-datta/)
-- 💻 [GitHub](https://github.com/sayantan6720)
 - 📧 sayantandatta275@gmail.com
 
 ---
